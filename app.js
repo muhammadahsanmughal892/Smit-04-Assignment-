@@ -1,4 +1,4 @@
-let percentage = Number(prompt("Sharmaomat"));
+let percentage = Number(prompt("Marksheet"));
 
 
 if(percentage < 0 || percentage > 100){
